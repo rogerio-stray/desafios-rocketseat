@@ -1,0 +1,6 @@
+
+class Teste{
+  metodo(){
+    
+  }
+}
