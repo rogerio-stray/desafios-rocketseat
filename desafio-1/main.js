@@ -1,6 +1,0 @@
-
-class Teste{
-  metodo(){
-    
-  }
-}
